@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Title</title>
+    <h1>Salut la miff</h1>
 </head>
 <body>
 
